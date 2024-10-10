@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HxN40oenI9mSleU/6+dsqPCJVqYIiUz4V9NhQ2vC+j1HRFTZjGYq7LiZ85J3uf4ZF/BjhBS36yVHPA7A0HCJ/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tobias\\source\\Learnify\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tobias\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tobias\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tobias\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tobias\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tobias\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tobias\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
